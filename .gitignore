@@ -1,0 +1,14 @@
+## Build output
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+## Local database files
+*.db
+*.db-shm
+*.db-wal
+
